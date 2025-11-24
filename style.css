@@ -1,4 +1,8 @@
 body {
+    border: 1px black dashed;
+    width: 512px;
+}
+body {
     margin: 0;
     padding: 0;
     background: white;
